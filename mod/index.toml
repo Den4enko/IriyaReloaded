@@ -13,6 +13,22 @@ file = "config/fancymenu/config.txt"
 hash = "23bc7bc49ede621380844ab2683d6da0120b5ef4166cfc0b08a9ed74e65d3e70"
 
 [[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "e9ffab03ce5ffc826c37ee3e1b7216fc3f37545464b8d70fcad85dd907a392ee"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "7a04c2d6f6ec75a6af8ef5834dfb9e64746651546069f046925ad81e96390e07"
+
+[[files]]
+file = "config/fancymenu/resources/logo.png"
+hash = "89d44f81775a4b9b7c9b1fa20ddabd17e11cbaaccd0ab934ceb765f86939b759"
+
+[[files]]
+file = "config/fancymenu/resources/pack_version.txt"
+hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
 metafile = true
