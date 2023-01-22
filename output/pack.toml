@@ -1,0 +1,13 @@
+name = "IriyaReloaded"
+author = "Iriya"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "088816771ea7fa6f9dc83d16149660b678c7dfc7bac638f5671b52f48afe2a53"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"

@@ -1,0 +1,23 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "c7e2cc3a5b1f87827046c837f7487c1813b298253d2d55e5ff9505fd9f1c60d1"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "23bc7bc49ede621380844ab2683d6da0120b5ef4166cfc0b08a9ed74e65d3e70"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "557e893a9a60af60b34d2a2a04feb2082c1d02285a2b476e56309d4fec7bda60"
+metafile = true
