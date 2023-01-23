@@ -6,7 +6,7 @@ hash = "d41113c44d0d06331573fd8a9d79d6e4ee43f9cab6805e88d9eacc8fd1ad7e66"
 
 [[files]]
 file = "README.md"
-hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
+hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
 file = "config/ProjectE/client.toml"
@@ -90,11 +90,11 @@ hash = "1ec4fab0d8dd5eafef82e67f61a35c03ee994988a5293e17cf3d3e97c3511847"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
-hash = "89d44f81775a4b9b7c9b1fa20ddabd17e11cbaaccd0ab934ceb765f86939b759"
+hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
+hash = "bfec2e34583ada7e6af2cb73993fb75a3f7147a6c943e5ff5f5c4294fc577b90"
 
 [[files]]
 file = "config/forge-client.toml"

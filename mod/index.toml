@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ecb447d85f6642abe9469e810d77cf2338977ed450c42cef714b3b66294e88cc"
+hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -22,11 +22,11 @@ hash = "7a04c2d6f6ec75a6af8ef5834dfb9e64746651546069f046925ad81e96390e07"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
-hash = "89d44f81775a4b9b7c9b1fa20ddabd17e11cbaaccd0ab934ceb765f86939b759"
+hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
+hash = "bfec2e34583ada7e6af2cb73993fb75a3f7147a6c943e5ff5f5c4294fc577b90"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
