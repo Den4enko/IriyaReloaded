@@ -10,7 +10,7 @@ hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b68151ff7ba7534a198e862ef5d5f9d851e2d804430b9093c0818dd62767463c"
+hash = "18e1ea2a7616f7f714781400a29be521edc5fdc4f0caf5df950539a5f9319263"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -90,7 +90,7 @@ hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
+hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -626,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/simple-login.pw.toml"
 hash = "3fc346f7c9727ecf7af06dc67274dbe38ba02cae61249f58ed4e962e6313fbd4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0e845067aa4b98088aac8a92d8429fb627dfe0fdd127d725ebb6166d85efad43"
 metafile = true
 
 [[files]]

@@ -34,6 +34,11 @@ hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0e845067aa4b98088aac8a92d8429fb627dfe0fdd127d725ebb6166d85efad43"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "557e893a9a60af60b34d2a2a04feb2082c1d02285a2b476e56309d4fec7bda60"
 metafile = true
