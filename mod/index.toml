@@ -30,7 +30,7 @@ hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
+hash = "05c64cb6a9476411f5c1be2445cb7e163b575262cf76c1c116348335d4f9686e"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -46,3 +46,15 @@ metafile = true
 file = "mods/simply-swords.pw.toml"
 hash = "557e893a9a60af60b34d2a2a04feb2082c1d02285a2b476e56309d4fec7bda60"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
+hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip"
+hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
+
+[[files]]
+file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.50+Extreme-VL.zip"
+hash = "42978cfc9d4ae2048d33ac0b9d1632b6a408d573f600b0e516197ecb21d4f608"
