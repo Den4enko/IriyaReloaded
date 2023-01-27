@@ -6,7 +6,7 @@ hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "18e1ea2a7616f7f714781400a29be521edc5fdc4f0caf5df950539a5f9319263"
+hash = "96c2fe003420fc545711acb0afb190401329f11f7908affdaa8c9410fb662c7e"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -30,7 +30,7 @@ hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
+hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
