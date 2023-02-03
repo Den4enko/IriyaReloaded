@@ -6,7 +6,7 @@ hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "96c2fe003420fc545711acb0afb190401329f11f7908affdaa8c9410fb662c7e"
+hash = "64b35ce707a0bc45785bf9889a2fa00884fc2b9be8263426ed60925a0d9df149"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -30,16 +30,11 @@ hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "05c64cb6a9476411f5c1be2445cb7e163b575262cf76c1c116348335d4f9686e"
+hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "0e845067aa4b98088aac8a92d8429fb627dfe0fdd127d725ebb6166d85efad43"
 metafile = true
 
 [[files]]
