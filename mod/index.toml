@@ -6,7 +6,7 @@ hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "64b35ce707a0bc45785bf9889a2fa00884fc2b9be8263426ed60925a0d9df149"
+hash = "4997402726838eee8a928915e295217abf311522327e8c3fecd653151f0a34c7"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -30,7 +30,7 @@ hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
+hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "557e893a9a60af60b34d2a2a04feb2082c1d02285a2b476e56309d4fec7bda60"
+hash = "20c4e8c62e4777d9547af8958625febc47bc8361aa3dcf294d671b4ed3774e4c"
 metafile = true
 
 [[files]]
