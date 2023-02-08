@@ -5,10 +5,6 @@ file = "README.md"
 hash = "23b73b88f3722cfed7cf26e0fe787e7cb873b1d9f50175ed25bd84f865b036a9"
 
 [[files]]
-file = "config/bcc-common.toml"
-hash = "4997402726838eee8a928915e295217abf311522327e8c3fecd653151f0a34c7"
-
-[[files]]
 file = "config/fancymenu/config.txt"
 hash = "23bc7bc49ede621380844ab2683d6da0120b5ef4166cfc0b08a9ed74e65d3e70"
 
@@ -30,26 +26,14 @@ hash = "bd13011ba5df43fe2ce224a1f931e3a5033fe0dc29c9659d3238df0c6df8a4c3"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
+hash = "ec6c168f4411ec8fa9ab8d47dd25954ce53728404fed0e7a9bc7f29dab38c30d"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "829f22ff7ec6a5a09d8d6353f91d79167018f2f71e2f144f188e19d4749b1a02"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "20c4e8c62e4777d9547af8958625febc47bc8361aa3dcf294d671b4ed3774e4c"
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
-hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.6.zip"
-hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
-
-[[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.50+Extreme-VL.zip"
-hash = "42978cfc9d4ae2048d33ac0b9d1632b6a408d573f600b0e516197ecb21d4f608"

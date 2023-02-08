@@ -1,12 +1,12 @@
 name = "IriyaReloaded"
 author = "Iriya"
-version = "1.5"
+version = "1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "671a6c2d1b69152ee06c355a2400bda68f1ccf2d493c77a339ca8d90d50bc541"
+hash = "cf1a073fea6086fa42ff601ee1072a810c8b65a83648ab2e4a4ebd9cf4a6e428"
 
 [versions]
 forge = "40.2.1"
